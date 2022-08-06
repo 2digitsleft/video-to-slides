@@ -1,0 +1,17 @@
+# Core dependencies
+opencv-python==4.8.1.78
+pytube==15.0.0
+google-api-python-client==2.100.0
+google-auth==2.23.0
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+numpy==1.24.3
+tqdm==4.66.1
+loguru==0.7.2
+click==8.1.7
+python-dotenv==1.0.0
+
+# Test dependencies (optional)
+pytest==7.4.2
+pytest-cov==4.1.0
+pytest-mock==3.11.1
